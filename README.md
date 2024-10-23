@@ -16,4 +16,4 @@ This project is a simple, dynamic product interface built from scratch using **V
 - `script.js`: The JavaScript file that dynamically generates the product cards and handles any interactions.
 
 ## Screenshots
-
+Interface.jpg
